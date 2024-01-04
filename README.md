@@ -1,1 +1,1 @@
-# Deep-Learning-with-Pytorch-for-Medical-Image-Analysis
+# Deep-Learning-with-Pytorch-ANN-CNN
