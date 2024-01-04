@@ -1,2 +1,1 @@
-# deep-learning-with-pytorch-for-medical-image-analysis
-Udemy Course
+# Deep-Learning-with-Pytorch-for-Medical-Image-Analysis
